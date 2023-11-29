@@ -1,0 +1,17 @@
+* {
+  margin: O;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 12px;
+}
+
+header {
+  width: 100%;
+}
+header nav {
+  width: 85%;
+  margin: auto;
+}
+header nav .collapseDiv {
+  justify-content: flex-end;
+}
